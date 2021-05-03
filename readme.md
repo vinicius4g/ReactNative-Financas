@@ -1,6 +1,11 @@
 <h1 align="center">Finanças</h1>
 
 <br>
+<p align="center">
+  <img alt="Finanças Login" src=".screenshots/TelaDeLogin.png" width="50%" height="50%">
+  <img alt="Finanças Home" src=".screenshots/TelaHome.png" width="50%" height="50%">
+</p>
+<br>
 
 ## 💻 Projeto
 
